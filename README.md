@@ -1,4 +1,7 @@
-Russian Roulette: Windows System32 Random File Deletion Game
+# Russian Roulette: Windows System32 Random File Deletion Game
+
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wealthmanagement.com%2Fsites%2Fwealthmanagement.com%2Ffiles%2Fgun-one-bullet-russian-roulette.jpg&f=1&nofb=1&ipt=c496b1e00f9c3789f25508ed1d915d76518ab8afe03b769f496f6adedb5915a2&ipo=images)
+
 ---
 > ## Disclaimer : 
 > 
